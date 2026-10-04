@@ -1,0 +1,6 @@
+city,adf_p_level,adf_p_differenced,daily_cycle_strength,weekly_cycle_strength,trend_strength
+Bengaluru,0.6266,0.0,0.5673,0.5692,0.0832
+Chennai,0.5508,0.0,0.6047,0.6035,0.0566
+Delhi,0.47,0.0,0.6847,0.6832,0.0921
+Hyderabad,0.4915,0.0,0.59,0.5865,0.0787
+Mumbai,0.5399,0.0,0.5876,0.583,0.0801

@@ -1,0 +1,6 @@
+covariate,hazard_ratio,ci_low,ci_high,p_value
+is_fleet,5.6355,3.0263,10.494,0.0
+fast_share,1.7842,1.5075,2.1117,0.0
+avg_temp,2.213,1.927,2.5416,0.0
+cycles_pm,5.6061,4.5728,6.8729,0.0
+dod,1.5539,1.3379,1.8049,0.0

@@ -1,0 +1,11 @@
+city,model,MAE,WAPE_pct
+Bengaluru,Seasonal naive (t-168h),62.111,56.243
+Bengaluru,LightGBM (tuned),44.815,40.581
+Chennai,Seasonal naive (t-168h),49.293,63.781
+Chennai,LightGBM (tuned),35.461,45.883
+Delhi,Seasonal naive (t-168h),70.457,51.39
+Delhi,LightGBM (tuned),50.496,36.831
+Hyderabad,Seasonal naive (t-168h),57.266,61.753
+Hyderabad,LightGBM (tuned),39.591,42.692
+Mumbai,Seasonal naive (t-168h),58.199,56.632
+Mumbai,LightGBM (tuned),42.173,41.037

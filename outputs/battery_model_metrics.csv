@@ -1,0 +1,5 @@
+Model,MAE_soh_pts,RMSE_soh_pts,R2_on_change
+Persistence (no change),1.7328,2.0491,-2.45
+Linear extrapolation,0.8315,1.0598,0.0772
+Ridge regression,0.4655,0.5941,0.71
+LightGBM,0.4292,0.5432,0.7575

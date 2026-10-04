@@ -1,0 +1,14 @@
+{
+  "coverage_80": 0.7737037037037037,
+  "avg_interval_width": 127.71418435007959,
+  "improvement_vs_seasonal_naive_pct": 28.517928705178235,
+  "best_params": {
+    "subsample": 0.9,
+    "num_leaves": 31,
+    "n_estimators": 500,
+    "min_child_samples": 20,
+    "learning_rate": 0.03,
+    "colsample_bytree": 0.7
+  },
+  "test_start": "2026-07-03"
+}

@@ -1,0 +1,5 @@
+Model,MAE,RMSE,WAPE_pct,Peak_MAE,Bias
+Naive (t-24h),59.572,78.928,57.245,71.17,0.079
+Seasonal naive (t-168h),59.465,78.41,57.143,72.198,-0.495
+Ridge regression,44.429,58.082,42.694,54.58,1.045
+LightGBM (tuned),42.507,56.321,40.847,51.266,-5.459

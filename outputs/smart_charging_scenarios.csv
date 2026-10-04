@@ -1,0 +1,6 @@
+adoption_pct,network_peak_kw,peak_reduction_pct,load_factor_pct,evening_peak_share_pct,customer_cost_savings_pct,sessions_shifted
+0,1395.9,0.0,37.09,24.1,0.0,0
+25,1395.9,0.0,37.09,23.86,0.14,1447
+50,1349.4,3.33,38.36,23.59,0.28,2913
+75,1336.6,4.25,38.73,23.36,0.42,4363
+100,1336.6,4.25,38.73,23.15,0.54,5855

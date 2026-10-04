@@ -1,0 +1,8 @@
+test,statistic,p_value,effect_size,finding,p_adj_BH,significant_5pct_FDR
+Office: weekday vs weekend daily demand (Mann-Whitney U),108381.0,3.2700248408511375e-98,0.9964080459770115,"median weekday 3,050 vs weekend 1,246 kWh/day (effect = rank-biserial r)",5.722543471489491e-98,True
+Mall: weekday vs weekend daily demand (Mann-Whitney U),3681.0,3.357622638813655e-86,-0.9321949602122016,"median weekday 2,699 vs weekend 4,029 kWh/day (effect = rank-biserial r)",4.700671694339117e-86,True
+Rainy vs dry days: demand residual (Mann-Whitney U),563614.0,1.0271558700780495e-106,-0.5064883437473731,-11.1% demand on rainy days after trend/weekday adjustment,2.3966970301821155e-106,True
+Extreme-temperature vs mild days: demand residual (Mann-Whitney U),1065650.0,0.030903938935118367,0.052922275533352936,+1.2% demand on extreme-temperature days,0.030903938935118367,True
+DC vs AC energy per session (Welch t-test),-75.71538668537804,0.0,-0.2919263613557482,"mean difference -3.15 kWh, bootstrap 95% CI [-3.24, -3.05] (effect = Cohen's d)",0.0,True
+SoH loss rate across cities (Kruskal-Wallis),69.45334151724424,2.9606772215401784e-14,0.04378149934263829,"medians: Bengaluru 0.252, Chennai 0.334, Delhi 0.287, Hyderabad 0.298, Mumbai 0.325 pts/month (effect = epsilon-squared)",3.454123425130208e-14,True
+Fast-charge share vs SoH loss rate (Spearman),0.616381553457064,1.1584393627901047e-157,0.616381553457064,higher fast-charging share is associated with faster capacity fade,4.054537769765367e-157,True

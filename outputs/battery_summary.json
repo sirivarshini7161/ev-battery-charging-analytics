@@ -1,0 +1,7 @@
+{
+  "n_vehicles": 1500,
+  "n_events": 244,
+  "logrank_p_usage": 7.206594523636599e-217,
+  "logrank_p_fast_group": 3.6398534813703525e-64,
+  "cox_concordance": 0.9727128611060529
+}

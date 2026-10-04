@@ -1,0 +1,12 @@
+{
+  "sessions": 332287,
+  "energy_mwh": 7860.583599999999,
+  "revenue_cr": 14.088482221000001,
+  "avg_session_kwh": 23.656007005991803,
+  "interruption_pct": 3.0807705387210453,
+  "dc_energy_share_pct": 65.76001337865044,
+  "evening_peak_share_pct": 23.881729646638455,
+  "stations": 40,
+  "users": 27329,
+  "period": "2024-10-01 to 2026-09-30"
+}
